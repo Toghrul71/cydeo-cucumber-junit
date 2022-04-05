@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: Wikipedia search functionality and verifications
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 107.224 s <<< FAILURE! - in Wikipedia search functionality and verifications
+Wikipedia search functionality and verifications.Wikipedia Search Functionality Title Verification #1  Time elapsed: 67.638 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Steve Job]s - Wikipedia> but was:<[Bill Gate]s - Wikipedia>
+
+Wikipedia search functionality and verifications.Wikipedia Search Functionality Title Verification #3  Time elapsed: 6.923 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Steve Job]s - Wikipedia> but was:<[Antony Hopkin]s - Wikipedia>
+
